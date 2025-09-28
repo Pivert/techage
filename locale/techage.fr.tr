@@ -395,7 +395,7 @@ TA3 Distillation Tower Base=Base de la tour de distillation TA3
 
 ### distributor.lua ###
 
-Block configured items for open ports=Bloquer les éléments configurés pour les ports ouverts
+Block configured items for open ports=Bloque les éléments configurés pour les ports ouverts
 Distributor=Distributeur
 High Performance Distributor=Distributeur haute performance
 Input=Entrée
@@ -642,7 +642,7 @@ TA2 Flywheel=La roue motrice TA2
 Area already loaded or max. number of Forceload Blocks reached!=Zone déjà chargée ou nombre maximum de Forceload atteint!
 Area from=De
 Area to=À
-Block at pos=Bloquer at pos
+Block at pos=Bloc à la position
 List of your Forceload Blocks:=Liste de vos blocs de forceload :
 Punch the block to make the area visible.=Frappez le bloc pour rendre la zone visible.
 Show all forceload blocks in a 64x64x64 range=Afficher tous les blocs de forceload dans une zone de 64x64x64
@@ -657,7 +657,7 @@ Status=Statut
 
 ### formspecs.lua ###
 
-Block has a wrench menu=Bloquer has a wrench menu
+Block has a wrench menu=Le bloc a un menu avec la Clé
 Charge termination=Terminaison de charge
 Current output [ku]=Courant output [ku]
 Maximum output [ku]=Production maximale [ku]
@@ -814,7 +814,7 @@ not connected=Non connecté
 ### hyperloop.lua ###
 ### teleport.lua ###
 
-Block name=Bloquer name
+Block name=Nom du Bloc
 Connection name for this block=Nom de la connexion pour ce bloc
 Connection name of the remote block=Nom de connexion du bloc distant
 Enter a block name or select an existing one=Entrez un nom de bloc ou sélectionnez-en un existant
@@ -884,7 +884,7 @@ to=vers
 
 ### lib.lua ###
 
-Block has an@nadditional wrench menu=Bloquer has an@nadditional wrench menu
+Block has an@nadditional wrench menu=Le Bloc a un @nadditional menu avec la Clé
 
 ### lib.lua ###
 ### sensorchest.lua ###
@@ -947,7 +947,7 @@ Syntax=Syntaxe
 ### logic_block.lua ###
 ### lua_logic.lua ###
 
-TA3 Logic Block=TA3 Logique Bloquer
+TA3 Logic Block=Bloc Logique TA3
 Update=Mettre à jour
 
 ### logic_block.lua ###
@@ -963,10 +963,10 @@ Lye Canister=Lessive Bidon
 
 ### magnet.lua ###
 
-TA4 Collider Detector Magnet=TA4 Collider Détecteur Aimant
-TA4 Collider Magnet=TA4 Collider Aimant
-TA4 Collider Magnet Base=TA4 Collider Aimant Base
-TA4 Collider Steel Block=TA4 Collider Acier Bloquer
+TA4 Collider Detector Magnet=TA4 Détecteur Aimant de Collisionneur
+TA4 Collider Magnet=TA4 Aimant de Collisionneur
+TA4 Collider Magnet Base=TA4 Aimant de Base de Collisionneur
+TA4 Collider Steel Block=TA4 Bloc d'Acier de Collisionneur
 TA5 Fusion Reactor Magnet 1=TA5 Fusion Réacteur Aimant 1
 TA5 Fusion Reactor Magnet 2=TA5 Fusion Réacteur Aimant 2
 TA5 Fusion Reactor Magnet Blank=TA5 Fusion Réacteur Aimant Blank
@@ -995,6 +995,7 @@ Meridium Axe=Hache en Méridium
 Meridium Pickaxe=Pioche en Méridium
 Meridium Shovel=Pelle en Méridium
 Meridium Sword=Épée en Méridium
+Meridium Ingot=Lingot de Méridium
 
 ### mesecons_converter.lua ###
 
@@ -1257,13 +1258,13 @@ Catalyst=Catalyseur
 
 ### recipeblock.lua ###
 
-TA4 Recipe Block=TA4 Recipe Bloquer
+TA4 Recipe Block=Recettes de blocs TA4
 
 ### recipes.lua ###
 
-Flint and Iron=Flint and Fer
-TA1 Iron Block=TA1 Fer Bloquer
-TA1 Iron Ingot=TA1 Fer Lingot
+Flint and Iron=Silex et Fer
+TA1 Iron Block=Bloc de fer TA1
+TA1 Iron Ingot=Lingot de fer TA1
 [Bucket] Lava can only be placed below sea level!=[Seau] La lave ne peut être placée qu'en dessous du niveau de la mer !
 
 ### recycler.lua ###
@@ -1273,8 +1274,8 @@ Recycler=Recycleur
 ### redstone.lua ###
 
 Red Stone=Pierre rouge
-Red Stone Block=Red Pierre Bloquer
-Red Stone Brick=Red Pierre Brique
+Red Stone Block=Bloc de Pierre
+Red Stone Brick=Brique
 
 ### repeater.lua ###
 
@@ -1290,7 +1291,7 @@ TA4 Wind Turbine Nacelle=TA4 Éolienne Turbine Nacelle
 
 ### screwdriver.lua ###
 
-Block alignment stored!=Bloquer alignment stored!
+Block alignment stored!=Alignment de bloc sauvegardé !
 Techage Screwdriver@n(See: TA3 > Tools)=Tournevis TechAge (Voir: TA3 > Outils)
 
 ### sensorchest.lua ###
@@ -1400,7 +1401,7 @@ power=alimentation
 ### soundblock.lua ###
 
 Play=Jouer
-TA3 Sound Block=TA3 Son Bloquer
+TA3 Sound Block=Bloc de son TA3
 
 ### source.lua ###
 
@@ -1557,16 +1558,16 @@ server not connected=Serveur non connecté
 
 ### teleport_pipe.lua ###
 
-TA5 Teleport Block Liquids=TA5 Téléportation Bloquer Liquids
+TA5 Teleport Block Liquids=Bloc de Téléportation de Liquides TA5
 
 ### teleport_pipe.lua ###
 ### teleport_tube.lua ###
 
-Remote block error=Erreur de bloc distant
+Remote block error=Bloc distant en erreur
 
 ### teleport_tube.lua ###
 
-TA5 Teleport Block Items=TA5 Téléportation Bloquer Items
+TA5 Teleport Block Items=Bloc de Téléportation d'Objets TA5
 
 ### terminal.lua ###
 

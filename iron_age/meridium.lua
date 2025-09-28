@@ -15,7 +15,7 @@
 local S = techage.S
 
 minetest.register_craftitem("techage:meridium_ingot", {
-	description = "Meridium Ingot",
+	description = S"Meridium Ingot",
 	inventory_image = "techage_meridium_ingot.png",
 })
 

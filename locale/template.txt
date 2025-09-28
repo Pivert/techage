@@ -995,6 +995,7 @@ Meridium Axe=
 Meridium Pickaxe=
 Meridium Shovel=
 Meridium Sword=
+Meridium Ingot=
 
 ### mesecons_converter.lua ###
 
