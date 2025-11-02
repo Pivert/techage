@@ -82,13 +82,13 @@ TA3 Terminal=Terminal TA3
 ### battery.lua ###
 
 Battery=Batterie
-Coal Equivalents=Équivalents charbon
+Coal Equivalents=Équival. charbon
 Digtron Battery=Batterie de Digtron
 
 ### battery.lua ###
 ### storage.lua ###
 
-Load=Charger
+Load=Niveau de Charge
 
 ### bauxit.lua ###
 
@@ -256,24 +256,24 @@ TA1 Charcoal=TA1 Charbon de bois
 
 ### charge_detector.lua ###
 
-Command to send when the energy storage charge@nlevel falls below the specified switch point=Commander to send when the energy storage charge@nlevel falls below the specified switch point
-Command to send when the energy storage charge@nlevel rises above the specified switch point=Commander to send when the energy storage charge@nlevel rises above the specified switch point
+Command to send when the energy storage charge@nlevel falls below the specified switch point=Commande à envoyer quand le niveau de charge@nlevel tombe en dessous du point spécifié
+Command to send when the energy storage charge@nlevel rises above the specified switch point=Commande à envoyer quand le niveau de charge@nlevel dépasse le point spécifié
 Storage charge level switch point=Stockage charge level switch point
 Switch point=Interrupteur point
-TA4 Energy Storage Charge Detector=TA4 Énergie Stockage Charge Détecteur
+TA4 Energy Storage Charge Detector=Détecteur d'Énergie de Stockage TA4
 
 ### chest.lua ###
 
 Allow public access to the chest=Autoriser l'accès public au coffre
 Inventory,Pre-Assignment,Config=Inventaire, Présélection, Configuration
 Node label:=Étiquette du nœud :
-TA2 Protected Chest=TA2 Coffre protégé
-TA3 Protected Chest=TA3 Coffre protégé
-TA4 Protected Chest=TA4 Coffre protégé
+TA2 Protected Chest=Coffre protégé TA2
+TA3 Protected Chest=Coffre protégé TA3
+TA4 Protected Chest=Coffre protégé TA4
 
 ### chest_cart.lua ###
 
-TA Chest Cart=TA Coffre de chariot
+TA Chest Cart=Coffre de chariot TA
 
 ### coalburner.lua ###
 
@@ -281,17 +281,17 @@ Ash=Cendres
 
 ### collector.lua ###
 
-Node number to send the events to=numéro de nœud pour envoyer les événements à 
-Node numbers to read the states from=numéros de noeud à lire les états de 
+Node number to send the events to=numéro de nœud auquel envoyer les événements
+Node numbers to read the states from=numéros de noeud duquel lire les états
 Send an event if state is equal or larger than=Envoyer un événement si l'état est égal ou supérieur à
 TA4 State Collector=Collecteur d'état TA4
 
 ### command_converter.lua ###
 
 Receive=Recevoir
-Send delay (s)=Envoyer delay (s)
+Send delay (s)=Delay d'envoi (s)
 Sent command=Commande envoyée
-TA3 Command Converter=TA3 Commander Convertisseur
+TA3 Command Converter=Convertisseur de Commande TA3
 
 ### concentrator.lua ###
 
@@ -301,11 +301,11 @@ Tube Concentrator=Concentrateur de Tubes
 ### controller.lua ###
 
 Cooling failed=Échec du refroidissement
-Magnet detection error@n(@1% found / 100% expected)=Aimant detection error@n(@1% found / 100% expected)
+Magnet detection error@n(@1% found / 100% expected)=Erreur de detection d'aimant @n(@1% found / 100% expected)
 Nucleus detection error=Noyau detection error
 Plasma ring shape error=Erreur de forme de l'anneau de plasma
-Shell shape error@n(@1% found / 100% expected)=Coque shape error@n(@1% found / 100% expected)
-TA5 Fusion Reactor Controller=TA5 Fusion Réacteur Contrôleur
+Shell shape error@n(@1% found / 100% expected)=Erreur de forme de l'enveloppe@n(@1% found / 100% expected)
+TA5 Fusion Reactor Controller=Contrôleur de Réacteur de Fusion TA5
 
 ### controller.lua ###
 ### heatexchanger2.lua ###
@@ -319,14 +319,14 @@ TA3 Melting=TA3 Fonte
 ### cooler.lua ###
 
 TA3 Cooler=TA3 Refroidisseur
-TA4 Collider Cooler=TA4 Collider Refroidisseur
+TA4 Collider Cooler=Refroidisseur de Collisionneur TA4
 
 ### counting.lua ###
 
 Your current value is=Votre valeur actuelle est
 [techage] The limit for 'number of commands per minute' has been exceeded.=[techage] La limite pour 'nombre de commandes par minute' a été dépassée.
 is allowed=est autorisé
-is allowed. Current value is=is allowed. Courant value is
+is allowed. Current value is=est autorisé. La mesure du Courant est
 per minute=par minute
 
 ### cylinder.lua ###
