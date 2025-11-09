@@ -1025,7 +1025,7 @@ TA4 Streetlamp Solar Cell=TA4 Streetlamp Solaire Cellule
 
 ### minichest.lua ###
 
-Test Chest=Test Poitrine
+Test Chest=Test Coffre
 
 ### minitank.lua ###
 
@@ -1297,7 +1297,7 @@ Techage Screwdriver@n(See: TA3 > Tools)=Tournevis TechAge (Voir: TA3 > Outils)
 ### sensorchest.lua ###
 
 Allow public chest access=Permettre public chest access
-TA4 Sensor Chest=TA4 Sensor Poitrine
+TA4 Sensor Chest=TA4 Coffre avec Capteurs
 
 ### sequencer.lua ###
 
@@ -1448,7 +1448,7 @@ TA2 Clutch=TA2 Embrayage
 
 ### ta2_weight_chest.lua ###
 
-TA2 Weight Chest=TA2 Poids Poitrine
+TA2 Weight Chest=TA2 Poids Coffre
 
 ### ta2_winch.lua ###
 
@@ -1522,7 +1522,7 @@ no power=pas de courant
 
 ### ta5_chest.lua ###
 
-TA5 Hyperloop Chest=TA5 Hyperloop Poitrine
+TA5 Hyperloop Chest=Coffre Hyperloop TA5
 
 ### ta5_pump.lua ###
 
